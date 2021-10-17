@@ -1,0 +1,19 @@
+{
+  "name": "music-bot",
+  "version": "1.0.0",
+  "description": "Music bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "index.js"
+  },
+  "author": "Justin W. @Boatshed",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.4.0",
+    "mongoose": "^6.0.8",
+    "nodemon": "^2.0.13"
+  }
+}

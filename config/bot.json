@@ -1,0 +1,18 @@
+{
+    "prefix": "-",
+    "token": "YOURTOKEN",
+    "logChannel": "",
+    "tickets": [
+       
+    ],
+    "supportID": "",
+    "closedTicketsCategory": "",
+    "introTitle": "Intro Title",
+    "introDesc": "Intro Desc",
+    "doneTitle": "Done Title",
+    "doneDesc": "Done Desc",
+    "tosChannel": "",
+    "paypal": "hello.com",
+    "currency": "$",
+    "transcripts": ""
+}
