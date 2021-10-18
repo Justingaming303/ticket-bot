@@ -1,25 +1,22 @@
 ### Discontinued, bugs and errors only
 
-### Discord Ticket Bot
----
+# Discord Ticket Bot
 This is a basic moderation bot with all commands you need for your server.
 
 
-### Contact Me:
----
+# Contact Me:
 - [✉justinwilliamtjahyono@gmail.com](mailto:justinwilliamtjahyono@gmail.com)
 - Discord: bangjo#9578
 - Instagram: [@tjahyonojustin](https://www.instagram.com/tjahyonojustin/)
 
 
-### Build
----
+# Build
+
 - Node: v14.17.5
 - discord.js: v12.5.3
 
 
-### Installation 
----
+# Installation 
 To get node, you must install it locally to your computer. Find the download link [here](https://nodejs.org/en/). You may install v14.0.0 or higher for this bot to work.
 
 
@@ -31,8 +28,8 @@ npm i discord.js@12.5.3
 
 ```
 
-### Features
----
+# Features
+
 **Default Prefix: (customizable in `config.json`)** `-`
 
 **Ticket Features**
@@ -57,8 +54,8 @@ npm i discord.js@12.5.3
 - settos (Sets the message when you do -tos)
 
 
-### Bugs
----
+# Bugs
+
 
 
 Feel free to contact me anytime if there are any bugs or errors you encounter. 
